@@ -1,6 +1,7 @@
 # run your LabVIEW built app as a service on Linux
 
 ## about me
+
 - Antoine Chalons, find me on [LinkedIn](https://www.linkedin.com/in/antoinechalons/)
 - using LabVIEW as a student from 2001 to 2005
 - using LabVIEW professionally since 2005
