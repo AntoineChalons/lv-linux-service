@@ -1,5 +1,17 @@
 # run your LabVIEW built app as a service on Linux
 
+## Why Linux?
+
+Because Windows in only for desktop applications.
+
+If you need to run...
+- on a embedded target
+- in a container
+- on a server
+- in the cloud
+
+... you need to run on Linux! 
+
 ## Why creating a service?
 
 1. [Automatic Startup](why.md#automatic-startup)
@@ -38,10 +50,8 @@ Key points about systemd
     
     - It provides features like parallel boot processes, on-demand starting of daemons, and dependency management between services.
 
-## How to compile my app as a service using LabVIEW
+## Systemd 's place in Linux boot process
 
-### Build a shared library
+systemd is the first process in user space
 
-### Write a c wrapper
-
-### Configure your service with systemd
+![boot-porcess](img/boot-process.webp)
