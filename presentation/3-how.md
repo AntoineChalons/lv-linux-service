@@ -45,4 +45,8 @@ int main()
 gcc -o g-procstat wrapper.c g-procstat.so -I /usr/local/natinst/LabVIEW-2020-64/cintools/
 ```
 
-## creating a service
+## creating a service file
+
+Read systemd's doc or watch a youtube video, let me suggest this one
+
+[![Video Title](https://img.youtube.com/vi/fYQBvjYQ63U/0.jpg)](https://www.youtube.com/watch?v=fYQBvjYQ63U)
