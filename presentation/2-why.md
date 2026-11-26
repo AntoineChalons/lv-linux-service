@@ -5,12 +5,13 @@
 Because Windows in only for desktop applications.
 
 If you need to run...
-- on a embedded target
+
+- on an embedded target
 - in a container
 - on a server
 - in the cloud
 
-... you need to run on Linux! 
+... you need to run on Linux!
 
 ## Why creating a service?
 
